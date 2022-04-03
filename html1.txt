@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    <meta name="viewport" width="divice-width" inital-scale="1.0">
+
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="menu">
+
+            <div class="nav">
+                <img src="levi2.jpg" class="image1" alt="" />
+                <div class="navList">
+                    <a href="" class="address">HOME</a>
+                    <a href="" class="address">About</a>
+                </div>
+            </div>
+            <div class="info">
+                <div class="biography">
+                    <div class="name">
+                        <h2>Dragutan Chiril</h2>
+                    </div>
+                    <p class="pog">About me</p>
+                    <p class="percent"> I am a football player who are pasioned in IT. I like very musch to make sites , to work with Js and to make games but I hate to program dispozitives. In th e leisure I like to play basketball with my friends.</p>
+                </div>
+                <div class="linie">
+
+                </div>
+
+                <div class="part_2">
+                    <h2 class="hobie">My hobies :</h2>
+                    <p class="hobies"> 1.I like to play basket in every saturdday with my friend. </p>
+                    <p class="nr2"> 2.I like to go at Robocode to learn something new in IT domenium.</p>
+                    <p class="nr3">3.To read books.</p>
+                </div>
+                <div class="scopes">
+
+                    <h2 class="m1"> My 2022 scopes : </h2>
+                    <p>1.To make my own site. </p>
+                    <p>2.To try to make money from IT and marketing domenium.</p>
+
+                </div>
+                <div class="linie2">
+
+                </div>
+            </div>
+
+
+
+        </div>
+        <div class="content">
+            <p class="pixels"></p>
+        </div>
+    </div>
+
+</body>
+
+</html>
