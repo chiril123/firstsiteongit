@@ -2,3 +2,23 @@ body {
     margin: 0;
     background-color: rgba(0, 4, 100, 0.54);
 }
+
+.first1 {
+    border: 4px solid white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.car {
+    text-align: center;
+}
+
+.OBI {
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
